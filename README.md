@@ -5,7 +5,7 @@ We can change the constraints or properties of practical situations and can view
 
 Checkout !
 
-Demo : https://clementmathew.github.io/Meta_Learn/
+Demo : [https://clementmathew.github.io/Meta_Learn/](https://clementmathew.github.io/Meta_Learn.Website.Vanilla/)
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/89939823/234174396-a7a66f3c-8441-4f92-bb02-7be3ed112b4f.png)
